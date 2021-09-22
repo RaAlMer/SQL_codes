@@ -1,3 +1,7 @@
+/*
+https://www.hackerrank.com/challenges/contest-leaderboard/problem
+*/
+
 CREATE TABLE hackers (
     hacker_id INT,
     name      VARCHAR(50)
