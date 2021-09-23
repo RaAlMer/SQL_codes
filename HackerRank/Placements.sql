@@ -24,7 +24,7 @@ VALUES (1,2),
 
 -- Crear tabla packages
 CREATE TABLE packages
-    (id INT
+    (id INT,
     salary FLOAT(4,2));
 INSERT INTO packages
 VALUES (1, 15.20),
