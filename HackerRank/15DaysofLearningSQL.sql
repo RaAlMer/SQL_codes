@@ -1,3 +1,7 @@
+/*
+https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem
+*/
+
 -- Tabla donde se encuentran las tareas enviadas por los hackers
 CREATE TABLE submissions (submission_date date, submission_id integer, hacker_id integer, score integer);
 INSERT INTO "submissions" VALUES('2016-03-01',8494,20703,0);
